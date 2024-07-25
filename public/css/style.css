@@ -1,0 +1,53 @@
+body {
+    background-color: blueviolet;
+}
+
+h2 {
+    background-color: rgba(0, 0, 0, 0.648);
+    color: aliceblue;
+}
+
+.container {
+    width: 250px;
+}
+
+.container h2 {
+    background-color: aliceblue;
+    color: black;
+    border-radius: 8px;
+}
+
+.div1 {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: antiquewhite;
+    opacity: 0.7;
+    width: 100%;
+    padding: 20px;
+}
+
+.div1 a {
+    text-decoration: none;
+    padding-left: 30px;
+}
+
+.h {
+    margin-top: 60px;
+    background-color: rgba(0, 0, 0, 0.648);
+}
+
+.div2 {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    background-color: antiquewhite;
+    opacity: 0.7;
+    width: 100%;
+    padding: 20px;
+}
+
+.div2 a {
+    text-decoration: none;
+    padding-left: 30px;
+}
